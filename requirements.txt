@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+numpy
+pandas
+matplotlib==3.9.2
+
+
